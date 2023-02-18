@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 👨🏾‍💻 I am a professional web developer / software engineer.
+- 🎓 I am pursuing my Master's degree in Artificial Intelligence at Kathmandu University.
+
+### Skills ⚡️
+
+- 🌟 My area of expertise is Typescript.
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwindcss,fastapi,actix,ts,python,rust,flutter,kotlin,docker)](https://skillicons.dev)
+
+
 <!--
 **ishandongol/ishandongol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
