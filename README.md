@@ -7,7 +7,7 @@
 
 - 🌟 My area of expertise is Typescript.
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwindcss,fastapi,actix,ts,python,rust,flutter,kotlin,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwindcss,rust,flutter,python,kotlin,nodejs,docker)](https://skillicons.dev)
 
 
 <!--
