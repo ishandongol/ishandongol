@@ -5,7 +5,7 @@
 
 ### Skills ⚡️
 
-- 🌟 My area of expertise is Typescript.
+- 🌟 My area of expertise is Typescript and Rust.
 
 [![My Skills](https://skillicons.dev/icons?i=ts,rust,flutter,react,nextjs,tailwindcss,python,kotlin,nodejs,docker)](https://skillicons.dev)
 
